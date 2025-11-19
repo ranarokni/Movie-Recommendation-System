@@ -75,7 +75,7 @@ The project uses the [**The Movies Dataset**](https://www.kaggle.com/datasets/ro
 
 Clone the repo:  
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/ranarokni/movie-recommender.git
 cd movie-recommender
 ```
 
